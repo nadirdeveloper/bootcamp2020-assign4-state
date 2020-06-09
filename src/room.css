@@ -1,0 +1,24 @@
+.room{
+    height: 100vh;
+}
+.lit{
+    background-color: white;
+    color: dark;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+h1{
+    margin: 0;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.button-cont{
+    text-align: center;
+}
+.button-cont button{
+    margin: 10px;
+}
